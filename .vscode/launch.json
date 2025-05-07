@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootLibreriaApplication<springboot-libreria>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ic23005.springboot_libreria.SpringbootLibreriaApplication",
+            "projectName": "springboot-libreria",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
